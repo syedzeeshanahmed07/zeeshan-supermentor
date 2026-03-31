@@ -1,0 +1,18 @@
+Semantic similarity means words that have similar meanings.
+
+Examples:
+
+1. Car – Automobile
+Both refer to the same type of vehicle.
+
+2. Big – Large
+Both describe size.
+
+3. Happy – Joyful
+Both represent positive emotions.
+
+4. Teacher – Educator
+Both refer to a person who teaches.
+
+5. Smart – Intelligent
+Both describe mental ability.
