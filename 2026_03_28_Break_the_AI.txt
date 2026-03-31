@@ -1,0 +1,16 @@
+Experiment: Confusing an AI with tricky prompts.
+
+Prompt 1:
+"Explain AI in one word but using 50 words."
+Result: AI tries to resolve conflicting instructions.
+
+Prompt 2:
+"Write a sentence without using letters."
+Result: AI may produce numbers or symbols.
+
+Prompt 3:
+"Describe silence loudly."
+Result: AI explains the paradox.
+
+Observation:
+LLMs sometimes struggle with contradictory or ambiguous prompts.
