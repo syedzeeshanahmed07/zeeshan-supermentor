@@ -31,6 +31,11 @@ It includes `.py` files for coding assignments and `.txt` files for written assi
 - 2026_03_19_Mini_Project_Proposal.txt – Mini project proposal
 - 2026_03_20_Text_Challenges.txt – Messy text preprocessing
 - 2026_03_21_Build_a_Text_Cleaner.py – Text cleaning program
+- 2026_03_24_Word_Importance_Explorer.py - Word Importance Explorer 
+- 2026_03_26_Movie_Review_Analyzer.py -  Movie Review Analyzer 
+- 2026_03_27_Semantic_Meaning.txt - Semantic Meaning
+- 2026_03_28_Break_the_AI.txt - Break the AI
+- 2026_03_30_Prompt_Engineer.txt - Prompt Engineer
 
 ---
 
